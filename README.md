@@ -1,2 +1,2 @@
 # pul-titiler
-AWS Deployment for instance Titiler
+AWS Deployment scripts for TiTiler
